@@ -1,0 +1,5 @@
+C:/Users/Leonardo/Documents/Abraxas/Abraxas_Mosquitoes/MosquitoLouder/.utmp/RelWithDebInfo/j6o3f2f3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Leonardo/Documents/Abraxas/Abraxas_Mosquitoes/MosquitoLouder/.utmp/RelWithDebInfo/j6o3f2f3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Leonardo/Documents/Abraxas/Abraxas_Mosquitoes/MosquitoLouder/.utmp/RelWithDebInfo/j6o3f2f3/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Leonardo/Documents/Abraxas/Abraxas_Mosquitoes/MosquitoLouder/.utmp/RelWithDebInfo/j6o3f2f3/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Leonardo/Documents/Abraxas/Abraxas_Mosquitoes/MosquitoLouder/.utmp/RelWithDebInfo/j6o3f2f3/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
